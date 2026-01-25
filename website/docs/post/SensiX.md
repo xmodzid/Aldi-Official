@@ -1,5 +1,5 @@
 ---
-title: "SensiX Beta"
+title: "SensiX Beta "
 date: 2026-01-25
 excerpt: "SensiX Beta adalah aplikasi Android untuk pelicin layar dan monitoring FPS, membantu pengalaman bermain dan penggunaan lebih lancar."
 image: ./logo.png
