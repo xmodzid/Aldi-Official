@@ -16,8 +16,5 @@ hero:
       text: Lihat di GitHub
       link: https://github.com/xmodzid/Aldi-Official
 
-features:
-  - title: SensiX Beta
-    details: "Aplikasi pelicin layar serta monitoring FPS untuk pengalaman Android lebih lancar."
-    link: "/guide/buy/"
+
 ---
