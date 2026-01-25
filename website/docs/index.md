@@ -20,5 +20,5 @@ features:
   - icon: 💻
     title: SensiX Beta
     details: Instant shell command execution directly from the app with auto-detection of ADB (Non-Root) and universal Root modes. 
-    link: /guide/buy
+    link: /guide/sensi
 ---
