@@ -5,7 +5,8 @@
 </p>
 
 > [!NOTE]  
-> **Development Status**: Project ini masih dalam tahap awal pengembangan. Fitur, sistem, dan struktur dapat berubah sewaktu-waktu.
+> Ini adalah halaman resmi **Aldi Official**. Semua informasi terbaru, update, dan kontak resmi tersedia di sini.
+
 
 ---
 
