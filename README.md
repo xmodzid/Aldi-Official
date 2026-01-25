@@ -4,8 +4,8 @@
   <img src="/logo.png" alt="Aldi Official Logo" width="200" style="margin-bottom: -10px;" />
 </p>
 
-> [!INFO]  
-> Ini adalah halaman resmi **Aldi Official**. Semua informasi terbaru, update, dan kontak resmi tersedia di sini.
+> [!CAUTION]  
+> **Development Status**: Project ini masih dalam tahap awal pengembangan. Fitur, sistem, dan struktur dapat berubah sewaktu-waktu.
 
 ---
 
