@@ -4,7 +4,7 @@
   <img src="/logo.png" alt="Aldi Official Logo" width="200" style="margin-bottom: -10px;" />
 </p>
 
-> [!INFO]  
+> [!NOTE]  
 > **Development Status**: Project ini masih dalam tahap awal pengembangan. Fitur, sistem, dan struktur dapat berubah sewaktu-waktu.
 
 ---
