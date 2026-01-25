@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Aldi Official
+## Aldi Official
 
 <p align="center">
   <img src="/logo.png" alt="Aldi Official Logo" width="200" style="margin-bottom:-10px;" />
@@ -18,7 +17,3 @@
   <a href="https://t.me/jurag4n_channel" target="_blank">
     <img src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
-=======
-# Aldi-Official
-Web Page Resmi Aldi Official 
->>>>>>> e9fa2a34145ed14728bbb808707b810d246dfe98

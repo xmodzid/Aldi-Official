@@ -5,20 +5,19 @@ titleTemplate: "Laman Web Resmi Aldi Official"
 
 hero:
   name: "Aldi Official"
-  text: "Laman Web Resmi, Tutorial, Aplikasi, dan Konten Lainnya."
-  tagline: "Sumber Informasi dan Update Terpercaya"
+  text: "Situs Resmi untuk Tutorial, Aplikasi, dan Konten Terpercaya."
+  tagline: "Panduan dan Update Resmi."
   image:
     src: ./logo.png
     alt: Aldi Official Logo
     
   actions:
     - theme: brand
-      text: Lihat di GitHub
-      link: https://github.com/xmodzid
+      text: "Lihat di GitHub"
+      link: "https://github.com/xmodzid/Aldi-Official"
 
 features:
-  - icon: 💻
-    title: Plugin Mod Lengkap
-    details: "Mod Library dengan fitur Eksklusif: ESP, Speed Flash, Sky Fly, Unlimited Ammo, Bullet Tracking."
-
+  - title: "SensiX Beta"
+    details: "Perpustakaan Mod dengan fitur eksklusif: ESP, Speed Flash, Sky Fly, Unlimited Ammo, dan Bullet Tracking."
+    link: "/post/SensiX"
 ---
