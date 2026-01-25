@@ -16,8 +16,8 @@ hero:
       text: "Lihat di GitHub"
       link: "https://github.com/xmodzid/Aldi-Official"
 
-features:
+posts:
   - title: "SensiX Beta"
-    details: "Perpustakaan Mod dengan fitur eksklusif: ESP, Speed Flash, Sky Fly, Unlimited Ammo, dan Bullet Tracking."
+    excerpt: "Aplikasi pelicin layar serta monitoring FPS untuk pengalaman Android lebih lancar."
     link: "/post/SensiX"
 ---
