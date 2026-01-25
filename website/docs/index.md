@@ -19,5 +19,5 @@ hero:
 features:
   - title: SensiX Beta
     details: "Aplikasi pelicin layar serta monitoring FPS untuk pengalaman Android lebih lancar."
-    link: /post/SensiX/
+    link: "/guide/buy/"
 ---

@@ -4,8 +4,9 @@
   <img src="/logo.png" alt="Aldi Official Logo" width="200" style="margin-bottom: -10px;" />
 </p>
 
-> [!INFO]  
+> [!NOTE]  
 > Ini adalah halaman resmi **Aldi Official**. Semua informasi terbaru, update, dan kontak resmi tersedia di sini.
+
 
 ---
 
