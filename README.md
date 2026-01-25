@@ -1,7 +1,7 @@
 ## Aldi Official
 
 <p align="center">
-  <img src="/logo.png" alt="Aldi Official Logo" width="200" style="margin-bottom:-10px;" />
+  <img src="/logo.png" alt="Aldi Official Logo" width="200" style="margin-bottom: -10px;" />
 </p>
 
 > [!INFO]  
@@ -11,9 +11,11 @@
 
 ## 🌍 Sosial & Dukungan
 
+<p align="center">
   <a href="https://saweria.co/Uniccc" target="_blank">
-    <img src="https://img.shields.io/badge/-Saweria-yellow?style=for-the-badge&logo=saweria&logoColor=white">
+    <img src="https://img.shields.io/badge/-Saweria-yellow?style=for-the-badge&logo=saweria&logoColor=white" alt="Saweria">
   </a>
   <a href="https://t.me/jurag4n_channel" target="_blank">
-    <img src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white">
+    <img src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
+</p>
