@@ -18,6 +18,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+<<<<<<< HEAD
       # Checkout repo
       - uses: actions/checkout@v4
 
@@ -44,6 +45,24 @@ jobs:
       - uses: actions/upload-pages-artifact@v3
         with:
           path: website/docs/.vitepress/dist
+=======
+      - uses: actions/checkout@v4
+
+      - uses: oven-sh/setup-bun@v2
+
+      - uses: actions/configure-pages@v5
+
+      - run: cd website && bun install
+
+      - run: |
+          cd website
+          bun run build
+          touch .vitepress/dist/.nojekyll
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: website/.vitepress/dist
+>>>>>>> affd5ec081553edb967ab3f532bf2d03d4b6bd00
 
   deploy:
     needs: build
@@ -52,4 +71,8 @@ jobs:
       name: github-pages
     steps:
       - uses: actions/deploy-pages@v4
+<<<<<<< HEAD
         id: deployment
+=======
+        id: deployment
+>>>>>>> affd5ec081553edb967ab3f532bf2d03d4b6bd00
