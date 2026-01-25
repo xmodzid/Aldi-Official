@@ -23,7 +23,7 @@ export default defineConfig({
       {
         text: 'Download SensiX Beta',
         items: [
-          { text: 'SensiXBeta', link: '/post/sensix' },
+          { text: 'SensiXBeta', link: '/post/SensiX' },
         ]
       }
     ],
