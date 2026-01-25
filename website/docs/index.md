@@ -13,11 +13,11 @@ hero:
     
   actions:
     - theme: brand
-      text: "Lihat di GitHub"
-      link: "https://github.com/xmodzid/Aldi-Official"
+      text: Lihat di GitHub
+      link: https://github.com/xmodzid/Aldi-Official
 
-posts:
-  - title: "SensiX Beta"
-    excerpt: "Aplikasi pelicin layar serta monitoring FPS untuk pengalaman Android lebih lancar."
-    link: "/post/SensiX"
+features:
+  - title: SensiX Beta
+    details: Aplikasi pelicin layar serta monitoring FPS untuk pengalaman Android lebih lancar
+    link: /post/SensiX/
 ---
