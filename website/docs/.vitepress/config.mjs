@@ -38,8 +38,8 @@ export default defineConfig({
         text: 'Community',
         items: [
           { text: 'Telegram', link: 'https://t.me/jurag4n_channel', icon: 'telegram' },
-          { text: 'GitHub', link: 'https://github.com/xmodzid/Aldi-Official', icon: 'github' }
-          { text: 'WhatsApp', link: 'https://chat.whatsapp.com/HUYV2mdlKf0IEkX9enm7IK?mode=gi_t', icon: 'whatsapp' }
+          { text: 'GitHub', link: 'https://github.com/xmodzid/Aldi-Official', icon: 'github' },
+          { text: 'WhatsApp', link: 'https://chat.whatsapp.com/HUYV2mdlKf0IEkX9enm7IK?mode=gi_t', icon: 'whatsapp' },
           { text: 'YouTube', link: 'https://youtube.com/@aldiofficial_18?si=KPHSrrLZfjQA-DEkl', icon: 'youtube' }
         ]
       }
