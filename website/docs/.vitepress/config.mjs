@@ -27,10 +27,10 @@ export default defineConfig({
         items: [
           { text: 'SensiXBeta', link: '/guide/sensi' }
         ]
-      }
+      },
       {
         text: 'Download XModZ Plugin',
-        items: [
+    items: [
           { text: 'XModZ', link: '/guide/xmodz' }
         ]
       }
