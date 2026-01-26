@@ -1,29 +1,28 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  base: '/',
+  base: '/Aldi-Official/',
   title: "Aldi Official",
-  description: "Laman Web Resmi Aldi Official, Semua Tutorial, Aplikasi, Ada Di Sini",
+  description: "Laman Web Resmi Aldi Official",
 
   head: [
-    ['link', { rel: 'icon', type: 'image/x-icon', href: '/logo.png' }],
-
+    ['link', { rel: 'icon', href: '/Aldi-Official/logo.png' }]
   ],
-  
+
   themeConfig: {
-    logo: '/logo.png',
+    logo: '/Aldi-Official/logo.png',
 
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Telegram', link: 'https://t.me/jurag4n_channel' },
-      { text: 'Whatsapp', link: 'https://chat.whatsapp.com/HUYV2mdlKf0IEkX9enm7IK?mode=gi_t' },
+      { text: 'Whatsapp', link: 'https://chat.whatsapp.com/HUYV2mdlKf0IEkX9enm7IK?mode=gi_t' }
     ],
 
     sidebar: [
       {
         text: 'Download SensiX Beta',
         items: [
-          { text: 'SensiXBeta', link: '/guide/sensi' },
+          { text: 'SensiXBeta', link: '/guide/sensi' }
         ]
       }
     ],
@@ -33,7 +32,7 @@ export default defineConfig({
     ],
 
     footer: {
-      message: 'Official Website ',
+      message: 'Official Website',
       copyright: 'Copyright © 2026 Aldi Official'
     },
 
