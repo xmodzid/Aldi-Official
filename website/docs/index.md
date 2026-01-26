@@ -23,6 +23,6 @@ features:
 
   - title: XModZ Plugin
     details: "Platform plugin berbasis ImGUI + Native C++ untuk menjalankan modul mod dengan stabilitas tinggi."
-    link: /guide/sensi
+    link: /guide/xmodz
 
 ---
