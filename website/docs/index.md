@@ -8,9 +8,9 @@ hero:
   text: "Situs Resmi untuk Tutorial, Aplikasi, dan Konten Terpercaya."
   tagline: "Panduan dan Update Resmi."
   image:
-  src: /logo.png
-  alt: Aldi Official Logo
-  
+    src: /logo.png
+    alt: Aldi Official Logo
+    
   actions:
     - theme: brand
       text: Lihat di GitHub
@@ -19,6 +19,6 @@ hero:
 features:
   - icon: 💻
     title: SensiX Beta
-    details: Meningkatkan pengalaman Free Fire Anda dengan alat sensitivitas tingkat lanjut untuk permainan yang lebih baik dan kontrol yang lebih presisi
+    details: Meningkatkan pengalaman Free Fire Anda dengan alat sensitivitas tingkat lanjut untuk permainan yang lebih baik dan kontrol yang lebih presisi.
     link: /guide/sensi
 ---
