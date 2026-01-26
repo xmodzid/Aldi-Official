@@ -19,6 +19,6 @@ hero:
 features:
   - icon: 💻
     title: SensiX Beta
-    details: Instant shell command execution directly from the app with auto-detection of ADB (Non-Root) and universal Root modes. 
+    details: Meningkatkan pengalaman Free Fire Anda dengan alat sensitivitas tingkat lanjut untuk permainan yang lebih baik dan kontrol yang lebih presisi
     link: /guide/sensi
 ---
