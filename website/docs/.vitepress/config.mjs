@@ -28,6 +28,12 @@ export default defineConfig({
           { text: 'SensiXBeta', link: '/guide/sensi' }
         ]
       }
+      {
+        text: 'Download XModZ Plugin',
+        items: [
+          { text: 'XModZ', link: '/guide/xmodz' }
+        ]
+      }
     ],
 
     socialLinks: [
@@ -38,7 +44,7 @@ export default defineConfig({
       message: 'Official Website',
       copyright: 'Copyright © 2026 Aldi Official'
     },
-
+    lastUpdated: true,
     search: { provider: 'local' }
   }
 })

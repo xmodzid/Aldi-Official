@@ -36,7 +36,7 @@ Sebelum menggunakan SensiX Beta, lakukan langkah berikut:
 - Start
 
 ### 3️⃣ Menggunakan SensiX
-1. Unduh dan instal **[SensiX Beta](../download/SENSIX)**
+1. Unduh dan instal **[SensiX Beta](https://safefileku.com/download/nyNqimQkOoUwJj3w)**
 2. Buka aplikasi
 3. Aktifkan fitur yang dibutuhkan
 4. Pantau FPS dan rasakan peningkatan kelancaran layar
