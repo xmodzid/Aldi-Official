@@ -34,6 +34,7 @@ Plugin ini cocok untuk pemain yang ingin pengalaman bermain lebih maksimal tanpa
 
 ## **Teknologi & Basis**
 - **Bahasa:** C++  
+- **Implementasi Library ke Sistem Pubg Lite**
 - **GUI / Interface:** ImGui (Immediate Mode GUI)  
 - Dirancang modular untuk menambahkan plugin mod tambahan dengan mudah  
 - Optimal untuk performa rendah / device 32-bit  
@@ -42,6 +43,7 @@ Plugin ini cocok untuk pemain yang ingin pengalaman bermain lebih maksimal tanpa
 
 ## **Link Download Plugin**
 [Download XModZ ID](https://xmodzid.github.io/download)
+
 ---
 
 > **Catatan:** Plugin ini **tidak dianjurkan untuk cheating publik**, gunakan untuk pengembangan/testing pribadi atau belajar mengenai sistem plugin Android.
