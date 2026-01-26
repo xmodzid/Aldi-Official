@@ -10,20 +10,20 @@ hero:
   image:
     src: /logo.png
     alt: Aldi Official Logo
-    
+
   actions:
     - theme: brand
       text: Lihat di GitHub
       link: https://github.com/xmodzid/Aldi-Official
 
 features:
-  - icon: /image.png
+  - icon: /logo.png
     title: SensiX Beta
     details: Meningkatkan pengalaman Free Fire Anda dengan alat sensitivitas tingkat lanjut untuk permainan yang lebih baik dan kontrol yang lebih presisi.
     link: /guide/sensi
-    
-  - icon: /image.png
+
+  - icon: /logo.png
     title: XModZ Plugin
-    details: Meningkatkan pengalaman Free Fire Anda dengan alat sensitivitas tingkat lanjut untuk permainan yang lebih baik dan kontrol yang lebih presisi.
-    link: /guide/sensi
+    details: Platform plugin berbasis ImGUI + Native C++ untuk menjalankan modul mod dengan stabilitas tinggi.
+    link: /guide/xmodz
 ---
