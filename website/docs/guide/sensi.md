@@ -1,7 +1,7 @@
 # SensiX Beta
 
 <p align="center">
-  <img src="./logo.png" alt="SensiX Logo" width="200" />
+  <img src="/logo.png" alt="SensiX Logo" width="200" />
 </p>
 
 **SensiX Beta** adalah aplikasi inovatif yang dirancang untuk meningkatkan performa perangkat Android Anda. Dengan fitur-fitur unggulan seperti **pelicin layar** dan **monitoring FPS**, SensiX membantu pengguna mendapatkan pengalaman penggunaan yang lebih lancar dan responsif.
