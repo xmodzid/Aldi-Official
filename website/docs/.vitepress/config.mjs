@@ -6,7 +6,10 @@ export default defineConfig({
   description: "Laman Web Resmi Aldi Official",
 
   head: [
-    ['link', { rel: 'icon', href: '/Aldi-Official/logo.png' }]
+    // Favicon
+    ['link', { rel: 'icon', href: '/Aldi-Official/logo.png' }],
+    // Google Site Verification
+    ['meta', { name: 'google-site-verification', content: 'pORYESZyKsVx1nuMWNohmEV6aZ5oDxax4qa4TZrsw4Y' }]
   ],
 
   themeConfig: {
