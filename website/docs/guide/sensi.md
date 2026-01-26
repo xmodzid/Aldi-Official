@@ -1,30 +1,59 @@
 # SensiX Beta
 
 <p align="center">
-  <img src="/logo.png" alt="SensiX Logo" width="200" />
+  <img src="/image.png" alt="thumbnail" width="200" />
 </p>
 
-**SensiX Beta** adalah aplikasi inovatif yang dirancang untuk meningkatkan performa perangkat Android Anda. Dengan fitur-fitur unggulan seperti **pelicin layar** dan **monitoring FPS**, SensiX membantu pengguna mendapatkan pengalaman penggunaan yang lebih lancar dan responsif.
+**SensiX Beta** adalah aplikasi inovatif yang dirancang untuk meningkatkan performa perangkat Android Anda. Dengan fitur seperti **pelicin layar** dan **monitoring FPS**, SensiX membantu menghadirkan pengalaman penggunaan yang lebih halus, responsif, dan stabil tanpa membebani sistem.
 
-## Fitur Utama
+---
 
-- ⚡ **Pelicin Layar** – Optimalkan kecepatan tampilan UI agar lebih halus.  
-- 📊 **Monitoring FPS** – Pantau performa perangkat secara real-time.  
-- 🛠 **Ringan dan Stabil** – Tidak membebani sistem dan aman digunakan di berbagai perangkat.  
+## 🚀 Fitur Utama
 
-## Cara Penggunaan
+- ⚡ **Pelicin Layar**  
+  Mengoptimalkan tampilan UI agar terasa lebih halus saat digunakan.
 
-1. Unduh dan instal SensiX Beta.  
-2. Buka aplikasi dan aktifkan fitur sesuai kebutuhan.  
-3. Pantau FPS dan nikmati layar yang lebih halus.  
+- 📊 **Monitoring FPS**  
+  Memantau performa perangkat secara real-time untuk melihat stabilitas frame rate.
 
-> ⚠️ Catatan: SensiX Beta hanya kompatibel dengan perangkat Android 32-bit (armeabi-v7a). Gunakan dengan bijak dan sesuai spesifikasi perangkat Anda.
+- 🛠 **Ringan & Stabil**  
+  Dirancang agar tidak memberatkan sistem dan kompatibel di banyak perangkat.
 
+---
+
+## 📲 Cara Penggunaan
+
+### 1️⃣ Persiapan Awal
+Sebelum menggunakan SensiX Beta, lakukan langkah berikut:
+
+- Unduh dan instal **Shizuku**
+- Aktifkan **Opsi Pengembang** di perangkat Anda  
+  *(Pengaturan → Tentang Ponsel → Ketuk "Nomor Bentukan" beberapa kali)*
+
+### 2️⃣ Menjalankan Shizuku
+- Buka aplikasi **Shizuku**
+- Jalankan Shizuku menggunakan metode yang tersedia (Wireless Debugging / USB)
+- Klik Pairing (Masukkan Kode Pada Debug Nirkabel Dengan Kode)
+- Start
+
+### 3️⃣ Menggunakan SensiX
+1. Unduh dan instal **SensiX Beta**
+2. Buka aplikasi
+3. Aktifkan fitur yang dibutuhkan
+4. Pantau FPS dan rasakan peningkatan kelancaran layar
+
+🎥 **Tutorial lengkap tersedia di YouTube:**  
+**Aldi Official**
+
+---
 ---
 
 ## 🌍 Dukungan & Kontak
 
-Untuk pertanyaan, saran, atau laporan bug, silakan kunjungi:  
+Untuk pertanyaan, saran, atau laporan bug:
 
-- [Telegram Channel](https://t.me/jurag4n_channel)  
-- [Saweria](https://saweria.co/Uniccc)
+- 📢 [Telegram Channel](https://t.me/jurag4n_channel)  
+- ☕ [Saweria](https://saweria.co/Uniccc)
+
+---
+**SensiX Beta — Lebih Halus, Lebih Stabil, Lebih Responsif**
