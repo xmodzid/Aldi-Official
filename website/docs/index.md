@@ -17,8 +17,13 @@ hero:
       link: https://github.com/xmodzid/Aldi-Official
 
 features:
-  - icon: /assets/image.png
+  - icon: /image.png
     title: SensiX Beta
+    details: Meningkatkan pengalaman Free Fire Anda dengan alat sensitivitas tingkat lanjut untuk permainan yang lebih baik dan kontrol yang lebih presisi.
+    link: /guide/sensi
+    
+  - icon: /image.png
+    title: XModZ Plugin
     details: Meningkatkan pengalaman Free Fire Anda dengan alat sensitivitas tingkat lanjut untuk permainan yang lebih baik dan kontrol yang lebih presisi.
     link: /guide/sensi
 ---
