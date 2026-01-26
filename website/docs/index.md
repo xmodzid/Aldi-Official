@@ -17,9 +17,10 @@ hero:
       link: https://github.com/xmodzid/Aldi-Official
 
 features:
-  - src: /logo.png
-    title: SensiX Beta
-    details: Meningkatkan pengalaman Free Fire Anda dengan alat sensitivitas tingkat lanjut untuk permainan yang lebih baik dan kontrol yang lebih presisi.
+  - title: SensiX Beta
+    details: |
+      <img src="/logo.png" width="80" style="display:block; margin: 0 auto;" />
+      Alat sensitivitas tingkat lanjut untuk Free Fire.
     link: /guide/sensi
 
   - src: /logo.png
