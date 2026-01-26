@@ -38,11 +38,12 @@ Plugin ini cocok untuk pemain yang ingin pengalaman bermain lebih maksimal tanpa
 - **GUI / Interface:** ImGui (Immediate Mode GUI)  
 - Dirancang modular untuk menambahkan plugin mod tambahan dengan mudah  
 - Optimal untuk performa rendah / device 32-bit  
-
+- Tidak Memerlukan Root
+- Mudah DiPakai dan Tidak Ribet, Seperti Game Guardian 
 ---
 
 ## **Link Download Plugin**
-[Download XModZ ID](https://xmodzid.github.io/download)
+Download**[XModZ Plugin](https://xmodzid.github.io/download)**
 
 ---
 

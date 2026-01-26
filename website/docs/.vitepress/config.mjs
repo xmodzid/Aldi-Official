@@ -51,7 +51,7 @@ export default defineConfig({
     ],
 
     footer: {
-      message: 'Official Website',
+      message: 'Aldi Official Website',
       copyright: 'Copyright © 2026 Aldi Official'
     },
 
