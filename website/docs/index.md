@@ -8,9 +8,9 @@ hero:
   text: "Situs Resmi untuk Tutorial, Aplikasi, dan Konten Terpercaya."
   tagline: "Panduan dan Update Resmi."
   image:
-    src: ./logo.png
-    alt: Aldi Official Logo
-    
+  src: /logo.png
+  alt: Aldi Official Logo
+  
   actions:
     - theme: brand
       text: Lihat di GitHub
