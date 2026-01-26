@@ -9,7 +9,7 @@ export default defineConfig({
     // Favicon
     ['link', { rel: 'icon', href: '/Aldi-Official/logo.png' }],
     // Google Site Verification
-    ['meta', { name: 'google-site-verification', content: 'pORYESZyKsVx1nuMWNohmEV6aZ5oDxax4qa4TZrsw4Y' }]
+    ['meta', { name: 'google-site-verification', content: '0jovBhkx6wFs5Wi852YS2Z0V8rAK4VXJ8injC0XJ_RI' }]
   ],
 
   themeConfig: {
