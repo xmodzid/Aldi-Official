@@ -31,8 +31,7 @@ export default defineConfig({
       {
         text: 'Guides',
         items: [
-          { text: 'Apa itu XModZ', link: '/guide/xmodz-info', icon: 'info-circle' },
-          { text: 'FAQ', link: '/guide/faq', icon: 'question-circle' }
+        { text: 'FAQ', link: '/guide/faq', icon: 'question-circle' }
         ]
       },
       {
@@ -40,13 +39,15 @@ export default defineConfig({
         items: [
           { text: 'Telegram', link: 'https://t.me/jurag4n_channel', icon: 'telegram' },
           { text: 'GitHub', link: 'https://github.com/xmodzid/Aldi-Official', icon: 'github' }
+          { text: 'WhatsApp', link: 'https://chat.whatsapp.com/HUYV2mdlKf0IEkX9enm7IK?mode=gi_t', icon: 'whatsapp' }
+          { text: 'YouTube', link: 'https://youtube.com/@aldiofficial_18?si=KPHSrrLZfjQA-DEkl', icon: 'youtube' }
         ]
       }
     ],
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/xmodzid/Aldi-Official' },
-      { icon: 'twitter', link: 'https://twitter.com/youraccount' },
+      { icon: 'youtube', link: 'https://youtube.com/@aldiofficial_18?si=KPHSrrLZfjQA-DEk' },
       { icon: 'telegram', link: 'https://t.me/jurag4n_channel' }
     ],
 

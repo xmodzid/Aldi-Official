@@ -52,7 +52,7 @@ Sebelum menggunakan SensiX Beta, lakukan langkah berikut:
 Untuk pertanyaan, saran, atau laporan bug:
 
 - 📢 [Telegram Channel](https://t.me/jurag4n_channel)  
-- ☕ [Saweria](https://saweria.co/Uniccc)
+- ☕ [Saweria](https://saweria.co/aldiofficiall18)
 
 ---
 **SensiX Beta — Lebih Halus, Lebih Stabil, Lebih Responsif**
