@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  base: '/Aldi-Official/',
+  base: '/',
   title: "Aldi Official",
   description: "Laman Web Resmi Aldi Official, Semua Tutorial, Aplikasi, Ada Di Sini",
 
