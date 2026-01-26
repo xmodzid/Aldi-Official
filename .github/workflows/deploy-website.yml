@@ -14,65 +14,51 @@ permissions:
   pages: write
   id-token: write
 
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
 jobs:
   build:
+    name: Build Website
     runs-on: ubuntu-latest
     steps:
-<<<<<<< HEAD
-      # Checkout repo
-      - uses: actions/checkout@v4
-
-      # Setup Bun
-      - uses: oven-sh/setup-bun@v2
-
-      # Setup GitHub Pages
-      - uses: actions/configure-pages@v5
-
-      # Install dependencies (masuk ke folder docs)
-      - name: Install dependencies
-        run: |
-          cd website/docs
-          bun install
-
-      # Build VitePress (dari folder docs)
-      - name: Build Website
-        run: |
-          cd website/docs
-          bun run build
-          touch .vitepress/dist/.nojekyll
-
-      # Upload hasil build
-      - uses: actions/upload-pages-artifact@v3
+      - name: Checkout
+        uses: actions/checkout@v4
         with:
-          path: website/docs/.vitepress/dist
-=======
-      - uses: actions/checkout@v4
+          fetch-depth: 0 
 
-      - uses: oven-sh/setup-bun@v2
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v2
 
-      - uses: actions/configure-pages@v5
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
 
-      - run: cd website && bun install
+      - name: Install dependencies
+        # Kita masuk ke folder website dulu untuk install
+        run: cd website && bun install
 
-      - run: |
+      - name: Build with VitePress
+        # Kita masuk ke folder website untuk menjalankan script 'build'
+        run: |
           cd website
           bun run build
-          touch .vitepress/dist/.nojekyll
+          touch docs/.vitepress/dist/.nojekyll
 
-      - uses: actions/upload-pages-artifact@v3
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
         with:
-          path: website/.vitepress/dist
->>>>>>> affd5ec081553edb967ab3f532bf2d03d4b6bd00
+          # Path absolut dari root repository ke hasil build
+          path: website/docs/.vitepress/dist
 
   deploy:
+    name: Deploy Website
     needs: build
     runs-on: ubuntu-latest
     environment:
       name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - uses: actions/deploy-pages@v4
-<<<<<<< HEAD
+      - name: Deploy to GitHub Pages
         id: deployment
-=======
-        id: deployment
->>>>>>> affd5ec081553edb967ab3f532bf2d03d4b6bd00
+        uses: actions/deploy-pages@v4
