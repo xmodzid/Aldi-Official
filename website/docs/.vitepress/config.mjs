@@ -52,7 +52,7 @@ export default defineConfig({
     ],
 
     footer: {
-      message: 'Aldi Official Website',
+      message: 'Released under the Apache License 2.0.',
       copyright: 'Copyright © 2026 Aldi Official'
     },
 

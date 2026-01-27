@@ -47,4 +47,9 @@ Download **[XModZ Plugin](https://xmodzid.github.io/download)**
 
 ---
 
+## FAQ
+Have a question? Check out our [FAQ page](/guide/faq). If you still have questions, join our Telegram Group [@jurag4n_channel](https://t.me/jurag4n_channel).
+
+---
+
 > **Catatan:** Plugin ini **tidak dianjurkan untuk cheating publik**, gunakan untuk pengembangan/testing pribadi atau belajar mengenai sistem plugin Android.

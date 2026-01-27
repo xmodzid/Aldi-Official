@@ -45,14 +45,11 @@ Sebelum menggunakan SensiX Beta, lakukan langkah berikut:
 **Aldi Official**
 
 ---
+
+## FAQ
+Have a question? Check out our [FAQ page](/guide/faq). If you still have questions, join our Telegram Group [@jurag4n_channel](https://t.me/jurag4n_channel).
+
 ---
-
-## 🌍 Dukungan & Kontak
-
-Untuk pertanyaan, saran, atau laporan bug:
-
-- 📢 [Telegram Channel](https://t.me/jurag4n_channel)  
-- ☕ [Saweria](https://saweria.co/aldiofficiall18)
 
 ---
 **SensiX Beta — Lebih Halus, Lebih Stabil, Lebih Responsif**
