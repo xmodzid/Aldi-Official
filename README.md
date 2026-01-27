@@ -27,7 +27,7 @@ Halaman ini dibuat sebagai **pusat informasi utama**, jadi semua update penting,
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=aldiofficial&label=Total%20Views&color=blue&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=xmodzid&label=Total%20Views&color=blue&style=for-the-badge" alt="Profile Views"/>
 
 <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
 

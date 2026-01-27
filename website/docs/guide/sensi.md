@@ -50,6 +50,4 @@ Sebelum menggunakan SensiX Beta, lakukan langkah berikut:
 Have a question? Check out our [FAQ page](/guide/faq). If you still have questions, join our Telegram Group [@jurag4n_channel](https://t.me/jurag4n_channel).
 
 ---
-
----
 **SensiX Beta — Lebih Halus, Lebih Stabil, Lebih Responsif**
