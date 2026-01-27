@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "Aldi Official"
-titleTemplate: "Laman Web Resmi Aldi Official"
+titleTemplate: "Laman Web Resmi Aldi Official – Tutorial, Software, Plugin, dan Tips Terbaru"
 
 hero:
   name: "Aldi Official"
