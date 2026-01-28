@@ -85,6 +85,83 @@ html {
     top 0.35s ease-out !important;
 }
 
+/* ===== WRAPPER GRID ===== */
+.about-wrapper {
+  display: grid;
+  grid-template-columns: 1.2fr 0.8fr;
+  gap: 28px;
+  max-width: 1100px;
+  margin: 60px auto;
+  padding: 0 20px;
+}
+
+/* RESPONSIVE */
+@media (max-width: 900px) {
+  .about-wrapper {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* ===== ABOUT CARD ===== */
+.about-card {
+  padding: 36px 32px;
+  border-radius: 20px;
+  text-align: center;
+  background: var(--vp-c-bg-soft);
+  border: 1px solid var(--vp-c-divider);
+  box-shadow: var(--vp-shadow-2);
+  transition: all .35s cubic-bezier(.4,0,.2,1);
+}
+
+.about-card img {
+  display: block;
+  margin: 0 auto 18px;
+}
+
+.about-card p {
+  margin: 0;
+  font-size: 16.5px;
+  line-height: 1.8;
+  color: var(--vp-c-text-2);
+}
+
+/* ===== STATS CARD ===== */
+.stats-card {
+  padding: 30px;
+  border-radius: 20px;
+  background: var(--vp-c-bg-soft);
+  border: 1px solid var(--vp-c-divider);
+  box-shadow: var(--vp-shadow-2);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 22px;
+  transition: all .35s cubic-bezier(.4,0,.2,1);
+}
+
+.stat-item h2 {
+  margin: 0 0 6px;
+  font-size: 28px;
+}
+
+.stat-item p {
+  margin: 0;
+  font-size: 14.5px;
+  color: var(--vp-c-text-2);
+  line-height: 1.6;
+}
+
+/* ===== HOVER EFFECT SAMA KAYAK FEATURES ===== */
+.about-card:hover,
+.stats-card:hover {
+  transform: translateY(-14px) scale(1.05);
+  box-shadow:
+    0 30px 60px -15px rgba(0,0,0,0.25),
+    0 0 20px rgba(255,255,255,0.12);
+  filter: brightness(1.05);
+  z-index: 10;
+  position: relative;
+}
 /* ================================
    FOCUS STYLING
    ================================ */

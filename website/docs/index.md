@@ -33,28 +33,36 @@ features:
       konsistensi visual, dan desain yang fungsional.
 ---
 
-<div style="
-  max-width: 780px;
-  margin: 60px auto;
-  padding: 40px 34px;
-  border-radius: 22px;
-  background: #1e1e1e;
-  border: 1px solid #2a2a2a;
-  box-shadow: 0 8px 25px rgba(0,0,0,0.25);
-  text-align: center;
-">
+<div class="about-wrapper">
 
-<div style="display:flex; justify-content:center;">
-  <img src="/owner.png" alt="Aldi Official Logo" width="150"
-       style="display:block; margin-bottom:22px;" />
-</div>
+  <!-- ABOUT CARD -->
+  <div class="card about-card">
+    <img src="/owner.png" alt="Aldi Official Logo" width="140" />
+    <p>
+      <strong>Aldi Official</strong> merupakan pusat pengembangan teknologi yang menaungi berbagai
+      project digital, eksperimen sistem, serta pembuatan tools modern. Platform ini
+      dibangun sebagai ruang eksplorasi teknologi dengan pendekatan teknis, terstruktur,
+      serta berorientasi pada performa, stabilitas, dan pengembangan berkelanjutan.
+    </p>
+  </div>
 
-<p style="font-size:16.5px; line-height:1.8; margin:0; color:#d6d6d6;">
-<strong style="color:#ffffff;">Aldi Official</strong> merupakan pusat pengembangan teknologi yang menaungi berbagai
-project digital, eksperimen sistem, serta pembuatan tools modern. Platform ini
-dibangun sebagai ruang eksplorasi teknologi dengan pendekatan teknis, terstruktur,
-serta berorientasi pada performa, stabilitas, dan pengembangan berkelanjutan.
-</p>
+  <!-- STATS CARD -->
+  <div class="card stats-card">
+    <div class="stat-item">
+      <h2>⚙️</h2>
+      <p><strong>Active Projects</strong><br/>Eksperimen & tools aktif dikembangkan</p>
+    </div>
+
+    <div class="stat-item">
+      <h2>📦</h2>
+      <p><strong>Open Source</strong><br/>Berbasis kolaborasi & eksplorasi publik</p>
+    </div>
+
+    <div class="stat-item">
+      <h2>🚀</h2>
+      <p><strong>Performance First</strong><br/>Fokus pada stabilitas & efisiensi</p>
+    </div>
+  </div>
 
 </div>
 
