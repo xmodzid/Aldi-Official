@@ -27,11 +27,34 @@ html {
    ================================ */
 .VPHomeHero {
   animation: hero-float 6s ease-in-out infinite;
+  position: relative;
 }
 
 @keyframes hero-float {
   0%,100% { transform: translateY(0); }
   50% { transform: translateY(-8px); }
+}
+
+/* ================================
+   HERO PARALLAX GLOW (FIXED)
+   ================================ */
+.VPHomeHero::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: var(--vp-home-hero-image-background-image);
+  filter: blur(90px) brightness(1.2);
+  transform: scale(1.1);
+  z-index: -1;
+  opacity: .6;
+  pointer-events: none;
+  animation: hero-glow 12s ease-in-out infinite alternate;
+}
+
+@keyframes hero-glow {
+  0%   { transform: scale(1.05) translateY(0px); }
+  50%  { transform: scale(1.12) translateY(-10px); }
+  100% { transform: scale(1.05) translateY(0px); }
 }
 
 /* ================================
@@ -67,6 +90,7 @@ html {
   transform: translateY(-5px);
   box-shadow: 0 10px 25px rgba(0,0,0,0.15);
 }
+
 .VPFeatures .VPFeature:hover,
 .VPFeatures .item:hover,
 .card:hover {
@@ -106,12 +130,13 @@ html {
 }
 
 /* ================================
-   FOCUS STYLING
+   FOCUS STYLING (FIXED)
    ================================ */
 #app a:focus-visible,
 #app button:focus-visible,
 #app input[type='checkbox']:focus-visible {
-  --at-apply: outline-1 outline-primary ring-2 ring-primary;
+  outline: 2px solid var(--vp-c-brand-1);
+  outline-offset: 2px;
 }
 
 /* ================================
@@ -148,6 +173,19 @@ html {
    ================================ */
 .medium-zoom-overlay { z-index: 20; }
 .medium-zoom-image { z-index: 21; }
+
+/* ================================
+   PAGE FADE ENTER
+   ================================ */
+.VPContent,
+.VPDoc {
+  animation: fade-page .6s var(--smooth-bezier);
+}
+
+@keyframes fade-page {
+  from { opacity: 0; transform: translateY(10px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
 
 /* ================================
    CINEMATIC SLIDE ENTER ANIMATION
@@ -204,18 +242,4 @@ html {
   .main > div > *:nth-child(18) { --enter-stage:18; }
   .main > div > *:nth-child(19) { --enter-stage:19; }
   .main > div > *:nth-child(20) { --enter-stage:20; }
-}
-
-/* ================================
-   OPTIONAL HERO PARALLAX GLOW
-   ================================ */
-.vp-home-hero::before {
-  content: "";
-  position: absolute;
-  inset: 0;
-  background: inherit;
-  transform: translateZ(0) scale(1.08);
-  z-index: -1;
-  will-change: transform;
-  transition: transform 0.6s var(--smooth-bezier);
 }

@@ -11,10 +11,10 @@ hero:
   actions:
     - theme: brand
       text: 🚀 Explore Projects
-      link: /projects
+      link: https://xmodzid.github.io
     - theme: alt
       text: 📘 Documentation
-      link: /guide
+      link: /page
 ---
 
 ## 🔥 Tentang Platform
@@ -45,17 +45,3 @@ hero:
 </div>
 
 ---
-
-## 📊 Status Pengembangan
-
-- 🚀 Project aktif dikembangkan  
-- 🧪 Eksperimen sistem berkelanjutan  
-- 🔄 Update rutin melalui kanal resmi  
-
----
-
-## 🌍 Official Channels
-
-[![Telegram](https://img.shields.io/badge/Telegram-Channel-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/get01project)
-[![Support](https://img.shields.io/badge/Support-Saweria-yellow?style=for-the-badge)](https://saweria.co/aldiofficial)
---
