@@ -14,7 +14,7 @@ hero:
       link: https://xmodzid.github.io
     - theme: alt
       text: 📘 Documentation
-      link: /page
+      link: /page/post
 ---
 
 ## 🔥 Tentang Platform
@@ -40,8 +40,6 @@ hero:
 <div class="feature">
 <h3>🎨 UI/UX Design</h3>
 <p>Perancangan antarmuka modern dengan pengalaman pengguna sebagai prioritas.</p>
-</div>
-
 </div>
 
 ---
