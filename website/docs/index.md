@@ -25,21 +25,23 @@ hero:
 
 ## ✨ Fokus Pengembangan
 
+<!-- FEATURES WRAPPER -->
 <div class="features">
 
-<div class="feature">
-<h3>🌐 Web Development</h3>
-<p>Pembuatan website modern, dokumentasi, dan platform digital berbasis performa.</p>
-</div>
+  <div class="feature">
+    <h3>🌐 Web Development</h3>
+    <p>Pembuatan website modern, dokumentasi, dan platform digital berbasis performa.</p>
+  </div>
 
-<div class="feature">
-<h3>📱 Android Tools</h3>
-<p>Pengembangan tools Android untuk optimasi, utilitas, dan eksperimen sistem.</p>
-</div>
+  <div class="feature">
+    <h3>📱 Android Tools</h3>
+    <p>Pengembangan tools Android untuk optimasi, utilitas, dan eksperimen sistem.</p>
+  </div>
 
-<div class="feature">
-<h3>🎨 UI/UX Design</h3>
-<p>Perancangan antarmuka modern dengan pengalaman pengguna sebagai prioritas.</p>
-</div>
+  <div class="feature">
+    <h3>🎨 UI/UX Design</h3>
+    <p>Perancangan antarmuka modern dengan pengalaman pengguna sebagai prioritas.</p>
+  </div>
 
----
+</div>
+<!-- END FEATURES -->

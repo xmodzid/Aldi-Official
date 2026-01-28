@@ -1,31 +1,44 @@
 ---
 title: Projects
+layout: doc
 ---
 
 # 🚀 Project & Tools
 
 Kumpulan project, eksperimen, dan tools resmi dari **Aldi Official**.  
-Setiap halaman berisi penjelasan lengkap, fitur, serta pembaruan terbaru.
+Setiap halaman berisi penjelasan lengkap, fitur utama, serta pembaruan terbaru.
 
 ---
 
+## ✨ Daftar Project
+
+<!-- WRAPPER AMAN UNTUK VITEPRESS -->
 <div class="features">
 
-<a href="/page/SensiX" class="feature" style="text-decoration:none; color:inherit;">
+<a href="/SensiX" class="feature">
   <h3>⚡ SensiX Beta</h3>
   <p>
     Tools Android eksperimental yang dirancang untuk meningkatkan respons layar,
-    kestabilan performa, serta monitoring FPS secara real-time.  
-    Dibangun untuk pengguna yang ingin kontrol perangkat lebih presisi.
+    kestabilan performa, serta monitoring FPS secara real-time.
+    Dibangun untuk pengguna yang menginginkan kontrol perangkat lebih presisi
+    dan performa yang lebih stabil.
   </p>
 </a>
 
-<a href="/page/xmodz" class="feature" style="text-decoration:none; color:inherit;">
+<a href="/xmodz" class="feature">
   <h3>🎮 XmodZ Plugin</h3>
   <p>
     Koleksi plugin dan modul eksperimen untuk pengembangan fitur game dan sistem.
-    Fokus pada kustomisasi, integrasi UI, serta eksplorasi teknologi berbasis modding.
+    Berfokus pada kustomisasi, integrasi UI modern, serta eksplorasi teknologi
+    berbasis modding dan tools interaktif.
   </p>
 </a>
 
 </div>
+
+---
+
+## 📌 Catatan
+
+Semua project di halaman ini merupakan bagian dari ekosistem resmi **Aldi Official**.  
+Update fitur, perbaikan, dan rilis terbaru akan diumumkan melalui dokumentasi masing-masing halaman project.
