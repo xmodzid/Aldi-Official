@@ -7,7 +7,7 @@ hero:
   text: "Aldi Official Development"
   tagline: Kumpulan project, eksperimen, dan tools resmi yang sedang dikembangkan.
 
-<h1 class="dot">Postingan</h1>
+## Postingan
 
 features:
   - title: ⚡ SensiX Beta
