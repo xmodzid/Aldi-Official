@@ -11,37 +11,24 @@ hero:
   actions:
     - theme: brand
       text: 🚀 Explore Projects
-      link: https://xmodzid.github.io
-    - theme: alt
+      link: /https://github.com/xmodzid.github.io
+    - theme: tip
       text: 📘 Documentation
-      link: /page/post
+      link: /page
+
+features:
+  - title: 🌐 Web Development
+    details: >
+      Pembuatan website modern, dokumentasi interaktif, dan platform digital
+      berbasis performa tinggi dengan struktur profesional.
+  
+  - title: 📱 Android Tools
+    details: >
+      Pengembangan tools Android untuk optimasi sistem, utilitas lanjutan,
+      serta eksperimen performa dan kontrol perangkat.
+  
+  - title: 🎨 UI/UX Design
+    details: >
+      Perancangan antarmuka modern dengan fokus pada pengalaman pengguna,
+      efisiensi visual, dan desain yang fungsional.
 ---
-
-## 🔥 Tentang Platform
-
-**Aldi Official** adalah pusat pengembangan teknologi yang berfokus pada pembuatan tools modern, eksperimen sistem, serta desain antarmuka yang efisien dan fungsional.
-
----
-
-## ✨ Fokus Pengembangan
-
-<!-- FEATURES WRAPPER -->
-<div class="features">
-
-  <div class="feature">
-    <h3>🌐 Web Development</h3>
-    <p>Pembuatan website modern, dokumentasi, dan platform digital berbasis performa.</p>
-  </div>
-
-  <div class="feature">
-    <h3>📱 Android Tools</h3>
-    <p>Pengembangan tools Android untuk optimasi, utilitas, dan eksperimen sistem.</p>
-  </div>
-
-  <div class="feature">
-    <h3>🎨 UI/UX Design</h3>
-    <p>Perancangan antarmuka modern dengan pengalaman pengguna sebagai prioritas.</p>
-  </div>
-
-</div>
-<!-- END FEATURES -->
