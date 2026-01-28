@@ -11,10 +11,10 @@ hero:
   actions:
     - theme: brand
       text: 🚀 Explore Projects
-      link: https://github.com/xmodzid.github.io
+      link: /post
     - theme: alt
       text: 📘 Documentation
-      link: /post
+      link: /
 
 features:
   - title: 🌐 Web Development
@@ -33,22 +33,16 @@ features:
       konsistensi visual, dan desain yang fungsional.
 ---
 
-## 🔥 Tentang Aldi Official
+## 🔥 About Aldi Official
 
-**Aldi Official** adalah pusat pengembangan teknologi yang menaungi berbagai
-project, eksperimen sistem, dan karya digital dengan pendekatan teknis,
-terstruktur, dan berorientasi performa.
+<p align="center">
+  <img src="/logo.png" alt="Aldi Official Logo" width="140"/>
+</p>
 
----
-
-## 🎯 Visi Pengembangan
-
-Membangun ekosistem tools dan sistem digital yang:
-
-- Stabil dan efisien  
-- Didukung dokumentasi terstruktur  
-- Berorientasi pengalaman pengguna  
-- Terus berkembang melalui eksperimen teknologi  
+**Aldi Official** merupakan pusat pengembangan teknologi yang menaungi berbagai
+project digital, eksperimen sistem, serta pembuatan tools modern.
+Platform ini dibangun sebagai ruang eksplorasi teknologi dengan pendekatan
+teknis, terstruktur, dan berorientasi pada performa serta stabilitas.
 
 ---
 
