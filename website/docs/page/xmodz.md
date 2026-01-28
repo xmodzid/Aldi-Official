@@ -48,7 +48,7 @@ Download **[XModZ Plugin](https://xmodzid.github.io/download)**
 ---
 
 ## FAQ
-Have a question? Check out our [FAQ page](/guide/faq). If you still have questions, join our Telegram Group [@jurag4n_channel](https://t.me/jurag4n_channel).
+Have a question? Check out our [FAQ page](/page/faq). If you still have questions, join our Telegram Group [@get01project](https://t.me/get01project).
 
 ---
 

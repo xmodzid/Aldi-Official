@@ -25,7 +25,7 @@
 ### 1️⃣ Persiapan Awal
 Sebelum menggunakan SensiX Beta, lakukan langkah berikut:
 
-- Unduh dan instal **Shizuku**
+- Unduh dan instal **[Shizuku](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api)**
 - Aktifkan **Opsi Pengembang** di perangkat Anda  
   *(Pengaturan → Tentang Ponsel → Ketuk "Nomor Bentukan" beberapa kali)*
 
@@ -47,7 +47,7 @@ Sebelum menggunakan SensiX Beta, lakukan langkah berikut:
 ---
 
 ## FAQ
-Have a question? Check out our [FAQ page](/guide/faq). If you still have questions, join our Telegram Group [@jurag4n_channel](https://t.me/jurag4n_channel).
+Have a question? Check out our [FAQ page](/page/faq). If you still have questions, join our Telegram Group [@get01project](https://t.me/get01project).
 
 ---
 **SensiX Beta — Lebih Halus, Lebih Stabil, Lebih Responsif**

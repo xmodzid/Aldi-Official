@@ -20,7 +20,7 @@ Upgrade pengalamanmu dengan XModZ versi terbaru! 🚀
 
 ## Download
 - [Download](https://sfile.co/JxrxaMv6NYZ) 
-- [Telegram Channel](https://t.me/jurag4n_channel)
+- [Telegram Channel](https://t.me/get01project)
 
 ---
 

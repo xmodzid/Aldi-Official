@@ -47,6 +47,26 @@ html {
   will-change: transform, box-shadow, filter;
 }
 
+.features {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 20px;
+  margin-top: 30px;
+}
+
+.feature {
+  padding: 20px;
+  border-radius: 16px;
+  background: rgba(255,255,255,0.05);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255,255,255,0.08);
+  transition: .3s;
+}
+
+.feature:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 25px rgba(0,0,0,0.15);
+}
 .VPFeatures .VPFeature:hover,
 .VPFeatures .item:hover,
 .card:hover {

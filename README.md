@@ -16,8 +16,6 @@
 - 🌐 Web Development  
 - 📱 Android & Modding Tools  
 - 🎨 UI/UX & Desain  
-- ⚙️ Open Source Project  
-- 🚀 Eksplorasi teknologi baru  
 
 Halaman ini dibuat sebagai **pusat informasi utama**, jadi semua update penting, link resmi, dan dukungan ada di sini.
 
@@ -56,10 +54,10 @@ Semua project akan diumumkan melalui channel resmi di bawah.
 ## 🌍 Sosial & Dukungan
 
 <p align="center">
-  <a href="https://saweria.co/Uniccc" target="_blank">
+  <a href="https://saweria.co/aldiofficial" target="_blank">
     <img src="https://img.shields.io/badge/-Saweria-yellow?style=for-the-badge&logo=saweria&logoColor=white" alt="Saweria">
   </a>
-  <a href="https://t.me/jurag4n_channel" target="_blank">
+  <a href="https://t.me/get01project" target="_blank">
     <img src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 </p>
