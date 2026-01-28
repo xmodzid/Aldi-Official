@@ -6,7 +6,6 @@ hero:
   name: "🚀 Project & Tools"
   text: "Aldi Official Development"
   tagline: Kumpulan project, eksperimen, dan tools resmi yang sedang dikembangkan.
-<h1 class="dot">Postingan</span></h1>
 
 features:
   - title: ⚡ SensiX Beta
