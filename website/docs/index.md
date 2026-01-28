@@ -10,32 +10,17 @@ hero:
     alt: Aldi Official
   actions:
     - theme: brand
-      text: 🚀 Explore Projects
-      link: /page
+      text: 🚀 Projects
+      link: /guide/
     - theme: alt
-      text: 📘 Documentation
+      text: 📘 Archive
       link: /post
-
-features:
-  - title: 🌐 Web Development
-    details: >
-      Pembuatan website modern, dokumentasi interaktif, dan platform digital
-      berbasis performa tinggi dengan struktur profesional.
-
-  - title: 📱 Android Tools
-    details: >
-      Pengembangan tools Android untuk optimasi sistem, utilitas lanjutan,
-      serta eksperimen performa dan kontrol perangkat.
-
-  - title: 🎨 UI/UX Design
-    details: >
-      Perancangan antarmuka modern dengan fokus pada pengalaman pengguna,
-      konsistensi visual, dan desain yang fungsional.
 ---
+
 <!-- ================= ABOUT CARD ================= -->
 <div class="about-card">
 
-<h2 class="about-title">About<span class="dot">.</span></h2>
+<h1 class="about-title">About<span class="dot">.</span></h1>
 
 <img src="/owner.png" alt="Owner" width="150"
      style="margin: 18px auto 22px auto; display:block;" />
@@ -52,31 +37,32 @@ Looking ahead, I am eager to contribute to impactful projects. My goal is to lev
 
 
 <!-- ================= CONTACT CARD ================= -->
-<div style="
-  max-width: 820px;
-  margin: 0 auto 70px auto;
-  padding: 38px 34px;
-  border-radius: 24px;
-  background: var(--vp-c-bg-soft);
-  border: 1px solid var(--vp-c-divider);
-  box-shadow: var(--vp-shadow-2);
-">
+<div class="contact-card">
 
-<h2 style="text-align:center; margin-top:0;">📬 Contact</h2>
+<h2 class="contact-title">📬 Contact</h2>
 
-<div style="display:grid; gap:16px; font-size:15.8px; margin-top:20px;">
+<div class="contact-grid">
 
-<a href="https://github.com/xmodzid/Aldi-Official" style="display:flex; align-items:center; gap:12px; text-decoration:none; color:var(--vp-c-text-1);">
+<a href="https://github.com/xmodzid/Aldi-Official"
+   target="_blank"
+   rel="noopener noreferrer"
+   class="contact-link">
 <svg width="20" viewBox="0 0 24 24" fill="currentColor"><path d="M12 .5A12 12 0 0 0 0 12.6c0 5.5 3.6 10.1 8.6 11.8.6.1.8-.3.8-.6v-2.2c-3.5.8-4.2-1.7-4.2-1.7-.6-1.6-1.4-2-1.4-2-1.1-.8.1-.8.1-.8 1.2.1 1.8 1.3 1.8 1.3 1 .1.8 1.9 2.8 1.4.1-.8.4-1.4.7-1.7-2.8-.3-5.7-1.4-5.7-6.3 0-1.4.5-2.6 1.3-3.6-.1-.3-.6-1.6.1-3.3 0 0 1.1-.4 3.6 1.3a12 12 0 0 1 6.6 0c2.5-1.7 3.6-1.3 3.6-1.3.7 1.7.2 3 .1 3.3.8 1 1.3 2.2 1.3 3.6 0 4.9-2.9 6-5.7 6.3.4.3.8 1 .8 2v3c0 .3.2.7.8.6A12.1 12.1 0 0 0 24 12.6 12 12 0 0 0 12 .5z"/></svg>
-<span>GitHub — /Aldi Official</span>
+<span>GitHub — Aldi Official</span>
 </a>
 
-<a href="https://youtube.com/@aldiofficial_18?si=N8Pu5y1cW7kXj6wj" style="display:flex; align-items:center; gap:12px; text-decoration:none; color:var(--vp-c-text-1);">
+<a href="https://youtube.com/@aldiofficial_18"
+   target="_blank"
+   rel="noopener noreferrer"
+   class="contact-link">
 <svg width="20" viewBox="0 0 24 24" fill="currentColor"><path d="M23.5 6.2a3 3 0 0 0-2.1-2.1C19.3 3.5 12 3.5 12 3.5s-7.3 0-9.4.6A3 3 0 0 0 .5 6.2 31 31 0 0 0 0 12a31 31 0 0 0 .5 5.8 3 3 0 0 0 2.1 2.1c2.1.6 9.4.6 9.4.6s7.3 0 9.4-.6a3 3 0 0 0 2.1-2.1A31 31 0 0 0 24 12a31 31 0 0 0-.5-5.8zM9.8 15.5v-7l6.2 3.5-6.2 3.5z"/></svg>
 <span>YouTube — Aldi Official</span>
 </a>
 
-<a href="https://t.me/get01project" style="display:flex; align-items:center; gap:12px; text-decoration:none; color:var(--vp-c-text-1);">
+<a href="https://t.me/get01project"
+   target="_blank"
+   rel="noopener noreferrer"
+   class="contact-link">
 <svg width="20" viewBox="0 0 24 24" fill="currentColor"><path d="M9.9 16.2 9.5 21c.7 0 1-.3 1.3-.6l3.1-3 6.4 4.7c1.2.7 2 .3 2.3-1.1L24 2.2C24.4.6 23.4 0 22.3.4L1.2 8.6C-.4 9.2-.4 10.2.9 10.6l5.5 1.7L19.6 4c.6-.4 1.1-.2.7.2"/></svg>
 <span>Telegram — @get01project</span>
 </a>
