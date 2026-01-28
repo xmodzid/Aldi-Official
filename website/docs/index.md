@@ -32,35 +32,49 @@ features:
       Perancangan antarmuka modern dengan fokus pada pengalaman pengguna,
       konsistensi visual, dan desain yang fungsional.
 ---
-## 🔥 About
-
+<!-- ================= ABOUT CARD ================= -->
 <div style="
   max-width: 820px;
-  margin: 60px auto;
-  padding: 42px 36px;
+  margin: 60px auto 30px auto;
+  padding: 44px 38px;
+  border-radius: 24px;
+  background: var(--vp-c-bg-soft);
+  border: 1px solid var(--vp-c-divider);
+  box-shadow: var(--vp-shadow-2);
+  text-align:center;
+">
+
+<h2 style="margin-top:0;">About</h2>
+
+<img src="/owner.png" alt="Rem01Gaming Logo" width="150"
+     style="margin: 18px auto 22px auto; display:block;" />
+
+<p style="line-height:1.9; color:var(--vp-c-text-2); font-size:16.5px; margin-bottom:16px;">
+I am an experienced mobile developer with a focus on Android development. My journey has been marked by collaborations on diverse software and open-source projects, allowing me to develop a strong eye for optimization and productivity. I thrive in dynamic environments and continuously push my limits to learn and achieve more.
+</p>
+
+<p style="line-height:1.9; color:var(--vp-c-text-2); font-size:16.5px; margin:0;">
+Looking ahead, I am eager to contribute to impactful projects. My goal is to leverage my Android development expertise to drive innovation and efficiency, while staying committed to excellence, continuous learning, and collaboration.
+</p>
+
+</div>
+
+
+
+<!-- ================= CONTACT CARD ================= -->
+<div style="
+  max-width: 820px;
+  margin: 0 auto 70px auto;
+  padding: 38px 34px;
   border-radius: 24px;
   background: var(--vp-c-bg-soft);
   border: 1px solid var(--vp-c-divider);
   box-shadow: var(--vp-shadow-2);
 ">
 
-<div style="text-align:center; margin-bottom:22px;">
-  <img src="/logo.png" alt="Rem01Gaming Logo" width="150" />
-</div>
+<h2 style="text-align:center; margin-top:0;">📬 Contact</h2>
 
-<p style="line-height:1.85; color:var(--vp-c-text-2); font-size:16.5px;">
-I am an experienced mobile developer with a focus on Android development. My journey has been marked by collaborations on diverse software and open-source projects, allowing me to develop a strong eye for optimization and productivity. I thrive in dynamic environments and continuously push my limits to learn and achieve more.
-</p>
-
-<p style="line-height:1.85; color:var(--vp-c-text-2); font-size:16.5px;">
-Looking ahead, I am eager to contribute to impactful projects. My goal is to leverage my Android development expertise to drive innovation and efficiency, while staying committed to excellence, continuous learning, and collaboration.
-</p>
-
-<hr style="margin:30px 0; border-color:var(--vp-c-divider);" />
-
-<h3 style="margin-bottom:18px;">📬 Contact</h3>
-
-<div style="display:grid; gap:14px; font-size:15.8px;">
+<div style="display:grid; gap:16px; font-size:15.8px; margin-top:20px;">
 
 <a href="mailto:Rem01_Gaming@proton.me" style="display:flex; align-items:center; gap:12px; text-decoration:none; color:var(--vp-c-text-1);">
 <svg width="20" viewBox="0 0 24 24" fill="currentColor"><path d="M2 4h20v16H2z" fill="none"/><path d="M22 6.5v11A2.5 2.5 0 0 1 19.5 20h-15A2.5 2.5 0 0 1 2 17.5v-11A2.5 2.5 0 0 1 4.5 4h15A2.5 2.5 0 0 1 22 6.5zm-2.2-.5H4.2L12 12.2 19.8 6z"/></svg>
