@@ -33,20 +33,30 @@ features:
       konsistensi visual, dan desain yang fungsional.
 ---
 
-## 🔥 About Aldi Official
+## About Aldi Official
 
-<p align="center">
-  <img src="/logo.png" alt="Aldi Official Logo" width="140"/>
-</p>
+<div style="
+  max-width: 760px;
+  margin: 30px auto;
+  padding: 28px;
+  border-radius: 20px;
+  background: rgba(255,255,255,0.05);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(255,255,255,0.08);
+  text-align: center;
+">
+
+<img src="/logo.png" alt="Aldi Official Logo" width="130" style="margin-bottom:16px;" />
 
 **Aldi Official** merupakan pusat pengembangan teknologi yang menaungi berbagai
-project digital, eksperimen sistem, serta pembuatan tools modern.
-Platform ini dibangun sebagai ruang eksplorasi teknologi dengan pendekatan
-teknis, terstruktur, dan berorientasi pada performa serta stabilitas.
+project digital, eksperimen sistem, serta pembuatan tools modern. Platform ini
+dibangun sebagai ruang eksplorasi teknologi dengan pendekatan teknis, terstruktur,
+serta berorientasi pada performa, stabilitas, dan pengembangan berkelanjutan.
 
+</div>
 ---
 
-## 🧩 Area Eksplorasi
+## Area Eksplorasi
 
 | Bidang | Fokus |
 |--------|------|
@@ -64,7 +74,7 @@ dengan pembaruan rutin, peningkatan fitur, serta dokumentasi yang terus disempur
 
 ---
 
-## 📢 Informasi
+## Informasi
 
 Semua rilis resmi, pembaruan project, dan dokumentasi tersedia melalui halaman ini.
 Sumber di luar platform resmi **tidak mewakili Aldi Official**.
