@@ -38,7 +38,7 @@ features:
      style="margin: 18px auto 22px auto; display:block;" />
 
 <p class="about-text">
-I am an experienced mobile developer with a focus on Android development. My journey has been marked by collaborations on diverse software and open-source projects, allowing me to develop a strong eye for optimization and productivity. I thrive in dynamic environments and continuously push my limits to learn and achieve more.
+I am an experienced mobile developer with a focus on Android development.
 </p>
 
 <p class="about-text">
@@ -52,38 +52,38 @@ Looking ahead, I am eager to contribute to impactful projects. My goal is to lev
 
 <h1 class="contact-title">📬 Contact</h1>
 
-<div class="contact-grid">
+<div class="contact-grid" style="display:flex; flex-direction:column; gap:12px; align-items:flex-start;">
 
 <!-- GitHub -->
-<div class="contact-item">
-  <span>GitHub — </span>
+<div class="contact-item" style="display:flex; align-items:center; gap:8px;">
+  <span>GitHub —</span>
   <a href="https://github.com/xmodzid/Aldi-Official"
      target="_blank"
      rel="noopener noreferrer"
      class="contact-link">
-    GitHub
+    Aldi Official
   </a>
 </div>
 
 <!-- YouTube -->
-<div class="contact-item">
-  <span>YouTube — </span>
+<div class="contact-item" style="display:flex; align-items:center; gap:8px;">
+  <span>YouTube —</span>
   <a href="https://youtube.com/@aldiofficial_18"
      target="_blank"
      rel="noopener noreferrer"
      class="contact-link">
-    YouTube
+    Aldi Official
   </a>
 </div>
 
 <!-- Telegram -->
-<div class="contact-item">
-  <span>Telegram — </span>
+<div class="contact-item" style="display:flex; align-items:center; gap:8px;">
+  <span>Telegram —</span>
   <a href="https://t.me/get01project"
      target="_blank"
      rel="noopener noreferrer"
      class="contact-link">
-    Telegram
+    @get01project
   </a>
 </div>
 
