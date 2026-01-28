@@ -46,7 +46,7 @@ features:
 
 <h2 style="margin-top:0;">About</h2>
 
-<img src="/owner.png" alt="Rem01Gaming Logo" width="150"
+<img src="/owner.png" alt="XmodZ Logo" width="150"
      style="margin: 18px auto 22px auto; display:block;" />
 
 <p style="line-height:1.9; color:var(--vp-c-text-2); font-size:16.5px; margin-bottom:16px;">
