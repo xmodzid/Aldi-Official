@@ -56,7 +56,7 @@ Looking ahead, I am eager to contribute to impactful projects. My goal is to lev
 
 <!-- GitHub -->
 <div class="contact-item" style="display:flex; align-items:center; gap:1px;">
-  <span>GitHub —</span>
+  <span>GitHub</span>
   <a href="https://github.com/xmodzid/Aldi-Official"
      target="_blank"
      rel="noopener noreferrer"
@@ -67,23 +67,23 @@ Looking ahead, I am eager to contribute to impactful projects. My goal is to lev
 
 <!-- YouTube -->
 <div class="contact-item" style="display:flex; align-items:center; gap:1px;">
-  <span>YouTube —</span>
+  <span>YouTube</span>
   <a href="https://youtube.com/@aldiofficial_18"
      target="_blank"
      rel="noopener noreferrer"
      class="contact-link">
-    /@aldiofficial_18
+    /Aldi Official
   </a>
 </div>
 
 <!-- Telegram -->
 <div class="contact-item" style="display:flex; align-items:center; gap:1px;">
-  <span>Telegram —</span>
+  <span>Telegram</span>
   <a href="https://t.me/get01project"
      target="_blank"
      rel="noopener noreferrer"
      class="contact-link">
-    /@get01project
+    @get01project
   </a>
 </div>
 
