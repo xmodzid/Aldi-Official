@@ -11,10 +11,10 @@ hero:
   actions:
     - theme: brand
       text: 🚀 Explore Projects
-      link: /post
+      link: /page
     - theme: alt
       text: 📘 Documentation
-      link: /
+      link: /post
 
 features:
   - title: 🌐 Web Development
@@ -33,30 +33,41 @@ features:
       konsistensi visual, dan desain yang fungsional.
 ---
 
-## About Aldi Official
+## 🔥 About Aldi Official
 
 <div style="
-  max-width: 760px;
-  margin: 30px auto;
-  padding: 28px;
-  border-radius: 20px;
-  background: rgba(255,255,255,0.05);
-  backdrop-filter: blur(12px);
-  border: 1px solid rgba(255,255,255,0.08);
+  max-width: 780px;
+  margin: 60px auto;
+  padding: 38px 32px;
+  border-radius: 24px;
+  background: linear-gradient(
+    145deg,
+    rgba(255,255,255,0.09),
+    rgba(255,255,255,0.03)
+  );
+  backdrop-filter: blur(16px) saturate(1.25);
+  border: 1px solid rgba(255,255,255,0.12);
+  box-shadow: 0 15px 45px rgba(0,0,0,0.18);
   text-align: center;
 ">
 
-<img src="/logo.png" alt="Aldi Official Logo" width="130" style="margin-bottom:16px;" />
+<div style="display:flex; justify-content:center;">
+  <img src="/logo.png" alt="Aldi Official Logo" width="150"
+       style="display:block; margin-bottom:20px;" />
+</div>
 
-**Aldi Official** merupakan pusat pengembangan teknologi yang menaungi berbagai
+<p style="font-size:16.5px; line-height:1.8; margin:0;">
+<strong>Aldi Official</strong> merupakan pusat pengembangan teknologi yang menaungi berbagai
 project digital, eksperimen sistem, serta pembuatan tools modern. Platform ini
 dibangun sebagai ruang eksplorasi teknologi dengan pendekatan teknis, terstruktur,
 serta berorientasi pada performa, stabilitas, dan pengembangan berkelanjutan.
+</p>
 
 </div>
+
 ---
 
-## Area Eksplorasi
+## 🧩 Area Eksplorasi
 
 | Bidang | Fokus |
 |--------|------|
@@ -74,7 +85,7 @@ dengan pembaruan rutin, peningkatan fitur, serta dokumentasi yang terus disempur
 
 ---
 
-## Informasi
+## 📢 Informasi
 
 Semua rilis resmi, pembaruan project, dan dokumentasi tersedia melalui halaman ini.
 Sumber di luar platform resmi **tidak mewakili Aldi Official**.
