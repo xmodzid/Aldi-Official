@@ -33,36 +33,34 @@ features:
       konsistensi visual, dan desain yang fungsional.
 ---
 
-<div class="about-wrapper">
+<div style="
+  max-width: 780px;
+  margin: 60px auto;
+  padding: 40px 34px;
+  border-radius: 22px;
+  background: var(--vp-c-bg-soft);
+  border: 1px solid var(--vp-c-divider);
+  box-shadow: var(--vp-shadow-2);
+  text-align: center;
+  transition: all .35s cubic-bezier(.4,0,.2,1);
+">
 
-  <!-- ABOUT CARD -->
-  <div class="card about-card">
-    <img src="/owner.png" alt="Aldi Official Logo" width="140" />
-    <p>
-      <strong>Aldi Official</strong> merupakan pusat pengembangan teknologi yang menaungi berbagai
-      project digital, eksperimen sistem, serta pembuatan tools modern. Platform ini
-      dibangun sebagai ruang eksplorasi teknologi dengan pendekatan teknis, terstruktur,
-      serta berorientasi pada performa, stabilitas, dan pengembangan berkelanjutan.
-    </p>
-  </div>
+<div style="display:flex; justify-content:center;">
+  <img src="/owner.png" alt="Aldi Official Logo" width="150"
+       style="display:block; margin-bottom:22px;" />
+</div>
 
-  <!-- STATS CARD -->
-  <div class="card stats-card">
-    <div class="stat-item">
-      <h2>⚙️</h2>
-      <p><strong>Active Projects</strong><br/>Eksperimen & tools aktif dikembangkan</p>
-    </div>
-
-    <div class="stat-item">
-      <h2>📦</h2>
-      <p><strong>Open Source</strong><br/>Berbasis kolaborasi & eksplorasi publik</p>
-    </div>
-
-    <div class="stat-item">
-      <h2>🚀</h2>
-      <p><strong>Performance First</strong><br/>Fokus pada stabilitas & efisiensi</p>
-    </div>
-  </div>
+<p style="
+  font-size:16.5px;
+  line-height:1.8;
+  margin:0;
+  color: var(--vp-c-text-2);
+">
+<strong style="color:var(--vp-c-text-1);">Aldi Official</strong> merupakan pusat pengembangan teknologi yang menaungi berbagai
+project digital, eksperimen sistem, serta pembuatan tools modern. Platform ini
+dibangun sebagai ruang eksplorasi teknologi dengan pendekatan teknis, terstruktur,
+serta berorientasi pada performa, stabilitas, dan pengembangan berkelanjutan.
+</p>
 
 </div>
 
