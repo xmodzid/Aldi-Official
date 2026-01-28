@@ -17,6 +17,26 @@ hero:
       link: /post
 ---
 
+<!-- ================= FEATURES ================= -->
+<div class="VPFeatures">
+
+  <div class="VPFeature">
+    <h3>🌐 Web Development</h3>
+    <p>Pembuatan website modern, dokumentasi interaktif, dan platform digital berbasis performa tinggi dengan struktur profesional.</p>
+  </div>
+
+  <div class="VPFeature">
+    <h3>📱 Android Tools</h3>
+    <p>Pengembangan tools Android untuk optimasi sistem, utilitas lanjutan, serta eksperimen performa dan kontrol perangkat.</p>
+  </div>
+
+  <div class="VPFeature">
+    <h3>🎨 UI/UX Design</h3>
+    <p>Perancangan antarmuka modern dengan fokus pada pengalaman pengguna, konsistensi visual, dan desain yang fungsional.</p>
+  </div>
+
+</div>
+
 <!-- ================= ABOUT CARD ================= -->
 <div class="about-card">
 
@@ -34,7 +54,6 @@ Looking ahead, I am eager to contribute to impactful projects. My goal is to lev
 </p>
 
 </div>
-
 
 <!-- ================= CONTACT CARD ================= -->
 <div class="contact-card">
