@@ -21,3 +21,6 @@ features:
       Fokus pada kustomisasi, integrasi UI, dan eksplorasi teknologi modding.
     link: /page/xmodz
 ---
+
+<!-- Heading Postingan dengan efek dot -->
+<h1 class="dot">Postingan</h1>
