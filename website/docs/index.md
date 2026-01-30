@@ -50,7 +50,7 @@ Looking ahead, I am eager to contribute to impactful projects. My goal is to lev
 <!-- ================= CONTACT CARD ================= -->
 <div class="contact-card">
 
-<h1 class="contact-title">📬 Contact</h1>
+<h1 class="contact-title">📬 Contact<span class="dot">.</span></h1>
 
 <div class="contact-grid">
 

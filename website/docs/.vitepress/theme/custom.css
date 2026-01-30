@@ -61,7 +61,7 @@ ROOT & GLOBAL VISUAL UPGRADE
 
 /* BESARKAN LOGO TANPA UBAH LAYOUT */
 .VPHero .VPImage img {
-  transform: scale(1.18);   /* ukuran logo */
+  transform: scale(1.38);   /* ukuran logo */
   transform-origin: center; /* tetap di tengah */
 }
 

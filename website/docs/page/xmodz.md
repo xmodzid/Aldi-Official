@@ -28,16 +28,16 @@ Plugin ini cocok untuk pemain yang ingin pengalaman bermain lebih maksimal tanpa
 
 <div class="img-vertical">
 
-  <a href="./xmodz1.jpg" target="_blank" rel="noopener">
-    <img src="/xmodz1.jpg" alt="xmodz1" />
+  <a href="/Aldi-Official/xmodz1.jpg" target="_blank" rel="noopener">
+    <img src="/Aldi-Official/xmodz1.jpg" alt="xmodz1" />
   </a>
 
-  <a href="./xmodz2.jpg" target="_blank" rel="noopener">
-    <img src="/xmodz2.jpg" alt="xmodz2" />
+  <a href="/Aldi-Official/xmodz2.jpg" target="_blank" rel="noopener">
+    <img src="/Aldi-Official/xmodz2.jpg" alt="xmodz2" />
   </a>
 
-  <a href="./xmodz3.jpg" target="_blank" rel="noopener">
-    <img src="/xmodz3.jpg" alt="xmodz3" />
+  <a href="/Aldi-Official/xmodz3.jpg" target="_blank" rel="noopener">
+    <img src="/Aldi-Official/xmodz3.jpg" alt="xmodz3" />
   </a>
 
 </div>
