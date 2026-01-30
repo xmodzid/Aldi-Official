@@ -34,7 +34,7 @@ features:
 
 <h1 class="about-title">About<span class="dot">.</span></h1>
 
-<img src="/owner.png" alt="Owner" width="150"
+<img src="/logo.png" alt="Owner" width="150"
      style="margin: 18px auto 22px auto; display:block;" />
 
 <p class="about-text">
