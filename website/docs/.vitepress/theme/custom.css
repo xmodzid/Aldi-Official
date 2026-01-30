@@ -211,10 +211,12 @@ ABOUT CARD / CONTACT CARD
   max-width: 820px;
   margin: 60px auto 30px auto;
   padding: 44px 38px;
-  border-radius: 12px;  disamakan dengan
-  background: var(--vp-c-bg-soft);
+  border-radius: 12px;
+
+  background-color: var(--vp-c-bg-soft); /* abu bawaan theme */
   border: 1px solid var(--vp-c-divider);
-  box-shadow: none; /* hapus bayangan */
+  box-shadow: none;
+
   text-align: center;
   z-index: 1;
 }
