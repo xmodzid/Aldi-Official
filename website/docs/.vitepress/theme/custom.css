@@ -7,7 +7,7 @@ ROOT & GLOBAL VISUAL UPGRADE
     'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
 }
 
-/*
+
 :root {
   --vp-home-hero-image-background-image:
     radial-gradient(circle at 30% 30%, #f6c1d5 0%, transparent 40%),
@@ -19,8 +19,8 @@ ROOT & GLOBAL VISUAL UPGRADE
   --bounce-bezier: cubic-bezier(0.34, 1.56, 0.64, 1);
   --smooth-bezier: cubic-bezier(0.22, 1, 0.36, 1);
 }
-*/
 
+/*
 :root {
   --vp-home-hero-name-color: transparent;
   --vp-home-hero-name-background: -webkit-linear-gradient(
@@ -34,7 +34,7 @@ ROOT & GLOBAL VISUAL UPGRADE
     #47caff 50%
   );
   --vp-home-hero-image-filter: blur(44px);
-}
+}*/
 
 @media (min-width: 640px) {
   :root {
