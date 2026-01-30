@@ -26,19 +26,13 @@ Plugin ini cocok untuk pemain yang ingin pengalaman bermain lebih maksimal tanpa
 ---
 ## Screenshot XModZ Plugin
 
-<div class="img-vertical">
+<div style="text-align:center;">
 
-  <a class="img-item" href="/xmodz1.jpg" target="_blank" rel="noopener">
-    <img src="/xmodz1.jpg" alt="XModZ Screenshot 1">
-  </a>
+<img src="/xmodz1.jpg" alt="preview" style="border:0; margin-bottom:20px; width:60%; max-width:60%; height:auto;" />
 
-  <a class="img-item" href="/xmodz2.jpg" target="_blank" rel="noopener">
-    <img src="/xmodz2.jpg" alt="XModZ Screenshot 2">
-  </a>
+<img src="/xmodz2.jpg" alt="XModZ Feature Preview" style="border:0; margin-bottom:20px; width:60%; max-width:60%; height:auto;" />
 
-  <a class="img-item" href="/xmodz3.jpg" target="_blank" rel="noopener">
-    <img src="/xmodz3.jpg" alt="XModZ Screenshot 3">
-  </a>
+<img src="/xmodz3.jpg" alt="XModZ Interface Preview" style="border:0; width:60%; max-width:60%; height:auto;" />
 
 </div>
 
