@@ -21,6 +21,9 @@ ROOT & GLOBAL VISUAL UPGRADE
 }
 */
 
+/* ================================
+HERO COLOR SYSTEM
+================================ */
 :root {
   --vp-home-hero-name-color: transparent;
   --vp-home-hero-name-background: -webkit-linear-gradient(
@@ -28,48 +31,67 @@ ROOT & GLOBAL VISUAL UPGRADE
     #bd34fe 30%,
     #41d1ff
   );
+
   --vp-home-hero-image-background-image: linear-gradient(
     -45deg,
     #bd34fe 50%,
     #47caff 50%
   );
+
   --vp-home-hero-image-filter: blur(44px);
 }
 
+/* Blur responsif background glow */
 @media (min-width: 640px) {
   :root {
     --vp-home-hero-image-filter: blur(56px);
   }
 }
-
 @media (min-width: 960px) {
   :root {
     --vp-home-hero-image-filter: blur(68px);
   }
 }
 
-.VPHero .VPImage {
-  filter: drop-shadow(-2px 4px 10px rgba(0, 0, 0, 0.25));
-  padding: 18px;
+/* ================================
+LOGO HERO — UKURAN BESAR TAPI NATURAL
+================================ */
+
+/* Container gambar hero (INI YANG NGONTROL UKURAN) */
+.VPHero .image {
+  max-width: 420px;
+  margin: 0 auto;
 }
 
-/* Logo Hero */
-.VPHero .VPImage {
-  filter: drop-shadow(-2px 4px 10px rgba(0, 0, 0, 0.25));
-  padding: 18px;
-}
-
-/* BESARKAN LOGO TANPA UBAH LAYOUT */
-.VPHero .VPImage img {
-  transform: scale(1.38);   /* ukuran logo */
-  transform-origin: center; /* tetap di tengah */
-}
-
-/* Desktop sedikit lebih besar */
-@media (min-width: 960px) {
-  .VPHero .VPImage img {
-    transform: scale(1.28);
+/* Desktop lebih besar */
+@media (min-width: 768px) {
+  .VPHero .image {
+    max-width: 480px;
   }
+}
+
+@media (min-width: 1200px) {
+  .VPHero .image {
+    max-width: 560px;
+  }
+}
+
+/* Gambar mengikuti container */
+.VPHero .image img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* Efek visual logo */
+.VPHero .VPImage {
+  filter: drop-shadow(-2px 8px 18px rgba(0, 0, 0, 0.25));
+  padding: 6px 0; /* jarak ke teks */
+}
+
+/* Pastikan tetap center di layout flex bawaan */
+.VPHero.has-image .container {
+  align-items: center;
 }
 /* ================================ */
 html.dark { color-scheme: dark; }
