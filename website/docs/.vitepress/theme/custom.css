@@ -53,13 +53,22 @@ ROOT & GLOBAL VISUAL UPGRADE
   padding: 18px;
 }
 
-.VPHero .image {
-  max-width: 380px;
+/* Logo Hero */
+.VPHero .VPImage {
+  filter: drop-shadow(-2px 4px 10px rgba(0, 0, 0, 0.25));
+  padding: 18px;
 }
 
+/* BESARKAN LOGO TANPA UBAH LAYOUT */
+.VPHero .VPImage img {
+  transform: scale(1.18);   /* ukuran logo */
+  transform-origin: center; /* tetap di tengah */
+}
+
+/* Desktop sedikit lebih besar */
 @media (min-width: 960px) {
-  .VPHero .image {
-    max-width: 440px;
+  .VPHero .VPImage img {
+    transform: scale(1.28);
   }
 }
 /* ================================ */
