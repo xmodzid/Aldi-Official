@@ -17,7 +17,7 @@ Upgrade pengalamanmu dengan XModZ Plugin versi terbaru! 🚀
 ```juragan-168-K9vtc``` 7 Days (31-01-2026)
 
 ## Download
-- [Download](https://safefileku.com/download/QZVNVTs9m6t7ySKl) 
+- [Download](https://safefileku.com/download/7lzagNZclRsHLw3T) 
 - [Telegram Channel](https://t.me/get01project)
 
 ---
