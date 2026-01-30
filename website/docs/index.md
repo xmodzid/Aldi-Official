@@ -52,40 +52,40 @@ Looking ahead, I am eager to contribute to impactful projects. My goal is to lev
 
 <h1 class="contact-title">📬 Contact</h1>
 
-<div class="contact-grid" style="display:flex; flex-direction:column; gap:10px; align-items:flex-start;">
+<div class="contact-grid">
 
-<!-- GitHub -->
-<div class="contact-item" style="display:flex; align-items:center; gap:1px;">
-  <span>GitHub</span>
-  <a href="https://github.com/xmodzid/Aldi-Official"
-     target="_blank"
-     rel="noopener noreferrer"
-     class="contact-link">
-    /Aldi Official
-  </a>
-</div>
+  <!-- GitHub -->
+  <div class="contact-item">
+    <span>GitHub</span>
+    <a href="https://github.com/xmodzid/Aldi-Official"
+       target="_blank"
+       rel="noopener noreferrer"
+       class="contact-link">
+      /Aldi Official
+    </a>
+  </div>
 
-<!-- YouTube -->
-<div class="contact-item" style="display:flex; align-items:center; gap:1px;">
-  <span>YouTube</span>
-  <a href="https://youtube.com/@aldiofficial_18"
-     target="_blank"
-     rel="noopener noreferrer"
-     class="contact-link">
-    /Aldi Official
-  </a>
-</div>
+  <!-- YouTube -->
+  <div class="contact-item">
+    <span>YouTube</span>
+    <a href="https://youtube.com/@aldiofficial_18"
+       target="_blank"
+       rel="noopener noreferrer"
+       class="contact-link">
+      /Aldi Official
+    </a>
+  </div>
 
-<!-- Telegram -->
-<div class="contact-item" style="display:flex; align-items:center; gap:1px;">
-  <span>Telegram</span>
-  <a href="https://t.me/get01project"
-     target="_blank"
-     rel="noopener noreferrer"
-     class="contact-link">
-    @get01project
-  </a>
-</div>
+  <!-- Telegram -->
+  <div class="contact-item">
+    <span>Telegram</span>
+    <a href="https://t.me/get01project"
+       target="_blank"
+       rel="noopener noreferrer"
+       class="contact-link">
+      @get01project
+    </a>
+  </div>
 
 </div>
 </div>
