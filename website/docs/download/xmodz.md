@@ -23,7 +23,7 @@ Upgrade pengalamanmu dengan XModZ Plugin versi terbaru! 🚀
 ---
 
 ## 📦 Download Versi Lama
-- [Version 7.3](/download/version/7.3)  
+- [Version 7.3](../download/version/7.3)  
 
 ---
 
