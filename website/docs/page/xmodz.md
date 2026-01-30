@@ -24,11 +24,26 @@ Plugin ini cocok untuk pemain yang ingin pengalaman bermain lebih maksimal tanpa
 - Single Magazine & Double
 
 ---
+## **Screenshot XModZ Plugin**
 
-## **Log Perbaikan di Versi v7.3**
-- Lebih ringan  
-- Tidak gampang force close  
-- Stabil dipakai dalam gameplay
+<div style="display:flex; flex-direction:column; align-items:center; gap:20px;">
+
+  <!-- Baris atas (2 gambar) -->
+  <div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
+    <img src="/poto/xmodz1.jpg" alt="xmodz1"
+         style="width:280px; max-width:45vw; height:auto; border-radius:12px;" />
+
+    <img src="/poto/xmodz2.jpg" alt="xmodz2"
+         style="width:280px; max-width:45vw; height:auto; border-radius:12px;" />
+  </div>
+
+  <!-- Baris bawah (1 gambar center) -->
+  <div style="display:flex; justify-content:center;">
+    <img src="/poto/xmodz3.jpg" alt="xmodz3"
+         style="width:300px; max-width:60vw; height:auto; border-radius:12px;" />
+  </div>
+
+</div>
 
 ---
 
@@ -43,7 +58,7 @@ Plugin ini cocok untuk pemain yang ingin pengalaman bermain lebih maksimal tanpa
 ---
 
 ## **Link Download Plugin**
-Download **[XModZ Plugin](https://xmodzid.github.io/download)**
+Download **[XModZ Plugin](/download/xmodz)**
 
 ---
 
