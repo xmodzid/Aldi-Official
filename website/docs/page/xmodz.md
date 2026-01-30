@@ -26,22 +26,19 @@ Plugin ini cocok untuk pemain yang ingin pengalaman bermain lebih maksimal tanpa
 ---
 ## **Screenshot XModZ Plugin**
 
-<div style="display:flex; flex-direction:column; align-items:center; gap:20px;">
+<div class="img-vertical">
 
-  <!-- Baris atas (2 gambar) -->
-  <div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
-    <img src="/poto/xmodz1.jpg" alt="xmodz1"
-         style="width:280px; max-width:45vw; height:auto; border-radius:12px;" />
+  <a href="/poto/xmodz1.jpg" target="_blank">
+    <img src="/poto/xmodz1.jpg" alt="xmodz1" />
+  </a>
 
-    <img src="/poto/xmodz2.jpg" alt="xmodz2"
-         style="width:280px; max-width:45vw; height:auto; border-radius:12px;" />
-  </div>
+  <a href="/poto/xmodz2.jpg" target="_blank">
+    <img src="/poto/xmodz2.jpg" alt="xmodz2" />
+  </a>
 
-  <!-- Baris bawah (1 gambar center) -->
-  <div style="display:flex; justify-content:center;">
-    <img src="/poto/xmodz3.jpg" alt="xmodz3"
-         style="width:300px; max-width:60vw; height:auto; border-radius:12px;" />
-  </div>
+  <a href="/poto/xmodz3.jpg" target="_blank">
+    <img src="/poto/xmodz3.jpg" alt="xmodz3" />
+  </a>
 
 </div>
 

@@ -212,6 +212,32 @@ ABOUT CARD / CONTACT CARD
   align-items: center;
   gap: 4px; /* ini yang jadi 1 spasi visual */
 }
+
+/*IMG PREVIEW*/
+
+.img-vertical {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 28px;
+  margin: 40px 0;
+}
+
+.img-vertical img {
+  width: 720px;
+  max-width: 95%;
+  height: auto;
+  border-radius: 16px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.12);
+  transition: transform .3s ease, box-shadow .3s ease;
+  cursor: zoom-in;
+}
+
+.img-vertical img:hover {
+  transform: scale(1.03);
+  box-shadow: 0 14px 40px rgba(0,0,0,0.18);
+}
+
 /* ================================
 AURORA LIGHT & BLOBS
 ================================ */
