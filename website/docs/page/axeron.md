@@ -47,7 +47,7 @@ Download **[AxManager](https://safefileku.com/download/7vGitHE3mE8LvHQl)**
 ---
 
 ## 🎥 **Tutorial lengkap tersedia di YouTube:**  
-**[Aldi Official](https://youtube.com/@aldiofficial_18?si=3UBV454q48G8rRmZ]**
+**[Aldi Official](https://youtube.com/@aldiofficial_18?si=3UBV454q48G8rRmZ)**
 
 ---
 
