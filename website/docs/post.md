@@ -9,13 +9,17 @@ hero:
 
 # Postingan
 features:
-  - title: "⚡ SensiX Beta"
+  - title: " Axeron (AxManager)"
+    details: >
+      aplikasi Android untuk kontrol lebih dalam terhadap sistem dan aplikasi. Berbeda dengan root manager lain.
+    link: /page/axeron
+  - title: " SensiX Beta"
     details: >
       Tools Android eksperimental untuk meningkatkan respons layar, kestabilan performa,
       serta monitoring FPS real-time. Dibuat untuk kontrol perangkat yang lebih presisi.
     link: /page/sensi
 
-  - title: "🎮 XmodZ Plugin"
+  - title: " XmodZ Plugin"
     details: >
       Koleksi plugin dan modul eksperimen untuk pengembangan fitur game dan sistem.
       Fokus pada kustomisasi, integrasi UI, dan eksplorasi teknologi modding.
