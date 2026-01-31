@@ -42,7 +42,7 @@ Sebelum menggunakan SensiX Beta, lakukan langkah berikut:
 4. Pantau FPS dan rasakan peningkatan kelancaran layar
 
 🎥 **Tutorial lengkap tersedia di YouTube:**  
-**Aldi Official**
+**[Aldi Official](https://youtube.com/@aldiofficial_18?si=3UBV454q48G8rRmZ)**
 
 ---
 

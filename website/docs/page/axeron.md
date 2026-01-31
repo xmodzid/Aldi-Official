@@ -39,14 +39,15 @@ Download **[AxManager](https://safefileku.com/download/7vGitHE3mE8LvHQl)**
 ---
 
 ## 🙏 Credits
+- **Developer AxManager** : [@fahrezone](https://t.me/fahrezone)
 - **Magisk**: ide BusyBox & Plugin  
 - **Shizuku**: referensi ADB/IPC  
 - **KernelSU**: inspirasi UI & WebUI  
 
 ---
 
-🎥 **Tutorial lengkap tersedia di YouTube:**  
-**Aldi Official**
+## 🎥 **Tutorial lengkap tersedia di YouTube:**  
+**[Aldi Official](https://youtube.com/@aldiofficial_18?si=3UBV454q48G8rRmZ]**
 
 ---
 
